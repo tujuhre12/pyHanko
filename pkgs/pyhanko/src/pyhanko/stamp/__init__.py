@@ -17,7 +17,6 @@ from .static import StaticContentStamp, StaticStampStyle
 from .text import TextStamp, TextStampStyle
 
 __all__ = [
-    "AnnotAppearances",
     "BaseStampStyle",
     "TextStampStyle",
     "QRStampStyle",
